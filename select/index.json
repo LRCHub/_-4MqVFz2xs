@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "チエルカ／エソテリカ - ツミキ × 宮下遊 [maimai でらっくす]",
+  "base_artist": "ツミキ",
+  "createdAt": "2026-03-17T06:07:27.500296Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チエルカ/エソテリカ",
+      "artist": "ツミキ, 宮下遊",
+      "has_synced": false,
+      "path": "select/pl_01_チエルカ_エソテリカ_ツミキ,_宮下遊.txt"
+    }
+  ]
+}
